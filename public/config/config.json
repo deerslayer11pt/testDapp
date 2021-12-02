@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDE3d559c5068BEF49481600156cAd9de5a9B1f89",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xDE3d559c5068BEF49481600156cAd9de5a9B1f89",
+  "NETWORK": {
+    "NAME": "rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Cryptonia Practice PreSale",
+  "SYMBOL": "CPP",
+  "MAX_SUPPLY": 280,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cryptoniapracpresale",
+  "SHOW_BACKGROUND": true
+}
